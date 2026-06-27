@@ -69,7 +69,7 @@ VALUES (
     uuid_generate_v4(),
     'System Admin',
     'admin@example.com',
-    '$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi'
+    '$2a$10$zq6aFKOaf0YaxeROLQOTKOsgmObb7Z.NwIo0dl.SM0EBv4qcm4Yd2'
 ) ON CONFLICT (email) DO NOTHING;
 
 -- Assign ADMIN role to admin user
