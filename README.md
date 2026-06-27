@@ -20,7 +20,7 @@ A secure, multi-user web application for managing grant applications featuring R
 ### 1. Clone and configure
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/aravindpunyamantula/Grant-Management-Portal.git>
 cd grant-management-portal
 cp .env.example .env
 # Edit .env with your OAuth credentials
